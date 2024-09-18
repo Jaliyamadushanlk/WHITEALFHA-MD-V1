@@ -37,7 +37,7 @@ let dec = `╭───────────────◎◎▷
 > 𝐨𝐰𝐞𝐧𝐞𝐫 : ᗯᕼITᗴᗩᒪᖴᕼᗩ OᖴIᑕIᗩᒪ
 ╰───────────────◎◎▷
 `
-await conn.sendMessage(from,{image:{url: `https://telegra.ph/file/7eba8a7c5f0d4d59a6419.jpg`},caption:dec},{quoted:mek});
+await conn.sendMessage(from,{image:{url: `https://i.ibb.co/p22J5nQ/file-1nh1gowb-Fqjz1-YJGzgo8u1e-J.jpg`},caption:dec},{quoted:mek});
 
 }catch(e){
 console.log(e)
