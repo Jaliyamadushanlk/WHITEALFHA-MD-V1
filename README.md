@@ -14,7 +14,12 @@
 
 <a href="https://pair-web-public.koyeb.app/"><img src="https://i.ibb.co/5BGSVZw/pair-code-btn-zusyco.png" alt="PAIR-CODE" border="2" width="170" height="41" ></a>
 
+Deploy to HEROKU ↓
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Rmjmadu/WHITEALFHA-MD-V1.git)
+
+
+<div align="center">
   <p align="center">
 <a href="https://github.com/vipshadowmd">
     <img src="https://i.ibb.co/YjdvYzc/file-Dk-CNr-FLShv-Gyty-Qux-Tr-N1x-Eo.webp"  width="700px">
